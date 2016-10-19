@@ -1,6 +1,6 @@
-name: Dat site title tho
+name: Home of jeppejp
 markdown: redcarpet
 pygments: true
-description: "Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-url: "jekyll-new.joelglovier.com"
+description: "Just testing to see if this is usable for anything cool"
+url: "https://jeppejp.github.io/"
 permalink: /posts/:title
